@@ -14,12 +14,14 @@
  게임을 종료한 후 게임을 다시 시작하거나 완전히 종료할 수 있다.
 
 # 2. 클래스
-
+<pre>
+<code>
 1. BaseBallGame
 2. GameController
 3. Referee
 4. Computer
-
+</code>
+</pre>
 # 3. 기능 설명
 ## 3.1 BaseBallGame
 
